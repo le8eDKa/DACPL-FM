@@ -1,6 +1,7 @@
 # DACPL-FM
 Disclamer anti-censorship license FM-(for media)
-Version:V
+Дисклеймер противо-цензурная лицензия (для медиаконтента)
+Version:V.I
 
    1. ПРЕАМБУЛА
 
